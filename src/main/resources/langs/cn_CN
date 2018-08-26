@@ -1,0 +1,19 @@
+
+errors:
+    missingArgument: '缺少变元, 需要变元`{0}`'
+    invalidProperty: '`{0}`提供数值无效, 你必须提供有效的 {1}.'
+    noChannelsWithNameOrId: 'I found no channels with the name or ID of `{0}`'
+    noUsersWithNameOrId: '我没有找到有频道的名字或者ID叫做 `{0}`'
+    mustBeConnectedToVoice: '你必须要连接到语音频道来使用这个指令!'
+    mustBeConnectedToSameChannel: '你必须要连接到同样的语音频道我在语音频道里 {0}!'
+    missingMusicQueue: '没找到音乐 `query`, 你必须要提供一个音乐的链接, 或者给我一个歌名!'
+    requireLevelFeatureToBeEnabled: '这个命令需要为服务器启用“等级和体验”的特性, 你可以询问服主他们是否想启动这个用 `{0}`'
+    errorOccurredWhileLoading: '读取失败 {0}, 请再试一次，如果持续报错请向开发者的DC报告[AvaIre support server](https://discord.gg/gt2FWER).'
+   
+levelupMessages:
+    - "GG :user, you just reached **Level :level**"
+    - "Eyy :user, you just leveled up! You're now **Level :level**"
+    - "🌟 You just reached **Level :level** :user! Congrats 🌟"
+    - "You're on 🔥 :user, you've just reached **Level :level**"
+    - "Congratulations :user 🎉 You just leveled up! You're now **Level :level**"
+     
